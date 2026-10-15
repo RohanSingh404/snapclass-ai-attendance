@@ -3,12 +3,6 @@ streamlit
 numpy
 pandas
 
-# FACE RECOGNITION
-scikit-learn
-dlib-bin
-git+https://github.com/ageitgey/face_recognition_models
-setuptools<70.0.0
-
 
 supabase
 bcrypt
@@ -22,3 +16,9 @@ pillow
 
 librosa
 resemblyzer
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
